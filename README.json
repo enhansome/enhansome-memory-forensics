@@ -24,7 +24,7 @@
             "last_commit": "2026-04-05T13:42:51Z",
             "owner": "jtsylve",
             "repo": "LiME",
-            "stars": 2027
+            "stars": 2028
           }
         },
         {
@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T22:22:48Z",
+            "last_commit": "2026-08-13T17:57:48Z",
             "owner": "microsoft",
             "repo": "avml",
             "stars": 1118
@@ -148,7 +148,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8059
+            "stars": 8060
           }
         },
         {
@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-07-23T19:15:40Z",
+            "last_commit": "2026-08-14T07:48:34Z",
             "owner": "volatilityfoundation",
             "repo": "volatility3",
-            "stars": 4323
+            "stars": 4325
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-12T21:48:09Z",
             "owner": "ufrisk",
             "repo": "MemProcFS",
-            "stars": 4279
+            "stars": 4280
           }
         },
         {
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T11:10:32.412Z",
+    "last_updated": "2026-08-14T11:07:44.899Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_sha": "f76efc5a18c4d1ad4eb9b600ae81d158a264b13b",
     "enhanced_repository": "enhansome/enhansome-memory-forensics",
