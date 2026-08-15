@@ -35,7 +35,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:57:48Z",
+            "last_commit": "2026-08-14T17:22:10Z",
             "owner": "microsoft",
             "repo": "avml",
             "stars": 1118
@@ -52,7 +52,7 @@
             "last_commit": "2025-10-14T14:13:22Z",
             "owner": "Velocidex",
             "repo": "WinPmem",
-            "stars": 1027
+            "stars": 1028
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8060
+            "stars": 8058
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-14T07:48:34Z",
             "owner": "volatilityfoundation",
             "repo": "volatility3",
-            "stars": 4325
+            "stars": 4327
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-12T21:48:09Z",
             "owner": "ufrisk",
             "repo": "MemProcFS",
-            "stars": 4280
+            "stars": 4282
           }
         },
         {
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:07:44.899Z",
+    "last_updated": "2026-08-15T10:37:30.781Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_sha": "f76efc5a18c4d1ad4eb9b600ae81d158a264b13b",
     "enhanced_repository": "enhansome/enhansome-memory-forensics",
