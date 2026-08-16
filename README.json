@@ -52,7 +52,7 @@
             "last_commit": "2025-10-14T14:13:22Z",
             "owner": "Velocidex",
             "repo": "WinPmem",
-            "stars": 1028
+            "stars": 1029
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2025-05-16T13:40:55Z",
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8058
+            "stars": 8059
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-14T07:48:34Z",
             "owner": "volatilityfoundation",
             "repo": "volatility3",
-            "stars": 4327
+            "stars": 4330
           }
         },
         {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-12T21:48:09Z",
             "owner": "ufrisk",
             "repo": "MemProcFS",
-            "stars": 4282
+            "stars": 4283
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2016-07-25T00:39:38Z",
             "owner": "n0fate",
             "repo": "volafox",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -218,7 +218,7 @@
             "last_commit": "2024-10-09T00:01:39Z",
             "owner": "volatilityfoundation",
             "repo": "dwarf2json",
-            "stars": 156
+            "stars": 157
           }
         }
       ],
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:37:30.781Z",
+    "last_updated": "2026-08-16T10:37:50.592Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_sha": "f76efc5a18c4d1ad4eb9b600ae81d158a264b13b",
     "enhanced_repository": "enhansome/enhansome-memory-forensics",
