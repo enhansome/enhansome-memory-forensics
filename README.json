@@ -1,257 +1,252 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LiME",
+                  "description": "(Not actively maintained 😵🍋‍🟩) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24379459,
+                    "language": "C",
+                    "last_commit": "2026-04-05T13:42:51Z",
+                    "owner": "jtsylve",
+                    "repo": "LiME",
+                    "stars": 2028
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AVML",
+                  "description": "AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 190660866,
+                    "language": "Rust",
+                    "last_commit": "2026-08-17T22:25:13Z",
+                    "owner": "microsoft",
+                    "repo": "avml",
+                    "stars": 1118
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Winpmem",
+                  "description": "WinPmem has been the default open source memory acquisition driver for windows for a long time.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187150358,
+                    "language": "C",
+                    "last_commit": "2025-10-14T14:13:22Z",
+                    "owner": "Velocidex",
+                    "repo": "WinPmem",
+                    "stars": 1029
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "varc",
+                  "description": "Volatile Artifact Collector gathers a snapshot of volatile data from a system.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 537488988,
+                    "language": "Python",
+                    "last_commit": "2024-11-18T10:23:04Z",
+                    "owner": "cado-security",
+                    "repo": "varc",
+                    "stars": 254
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "fmem",
+                  "description": "This module creates /dev/fmem device, that can be used for dumping physical memory, without limits of /dev/mem (1MB/1GB, depending on distribution).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37199387,
+                    "language": "C",
+                    "last_commit": "2026-01-17T03:26:10Z",
+                    "owner": "NateBrune",
+                    "repo": "fmem",
+                    "stars": 129
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Software"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EVTXtract",
+                  "description": "EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 13352424,
+                    "language": "Python",
+                    "last_commit": "2025-03-12T12:22:48Z",
+                    "owner": "williballenthin",
+                    "repo": "EVTXtract",
+                    "stars": 211
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Volatility3 Inodes Plugin",
+                  "description": "The plugin is a pushed verion of the lsof plugin extracting inode metadata information from each files.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 517415069,
+                    "language": "Python",
+                    "last_commit": "2024-07-23T20:39:30Z",
+                    "owner": "forensicxlab",
+                    "repo": "volatility3_plugins",
+                    "stars": 26
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Volatility3 Prefetch Plugin",
+                  "description": "The plugin is scanning, extracting and parsing Windows Prefetch files from Windows XP to Windows 11.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 517415069,
+                    "language": "Python",
+                    "last_commit": "2024-07-23T20:39:30Z",
+                    "owner": "forensicxlab",
+                    "repo": "volatility3_plugins",
+                    "stars": 26
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc"
+            }
+          ],
+          "description": "Introduce commercial and open source tools for memory acquisition.",
+          "node_type": "group",
+          "title": "Memory Acquisition"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Volatility",
+              "description": "The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19114225,
+                "language": "Python",
+                "last_commit": "2025-05-16T13:40:55Z",
+                "owner": "volatilityfoundation",
+                "repo": "volatility",
+                "stars": 8059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volatility3",
+              "description": "Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16258388,
+                "language": "Python",
+                "last_commit": "2026-08-14T07:48:34Z",
+                "owner": "volatilityfoundation",
+                "repo": "volatility3",
+                "stars": 4336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MemProcFS",
+              "description": "The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158113416,
+                "language": "C",
+                "last_commit": "2026-08-17T21:01:29Z",
+                "owner": "ufrisk",
+                "repo": "MemProcFS",
+                "stars": 4289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rekall",
+              "description": "A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (Deprecated)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 19864741,
+                "language": "Python",
+                "last_commit": "2020-10-18T04:33:58Z",
+                "owner": "google",
+                "repo": "rekall",
+                "stars": 2007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Volafox",
+              "description": "macOS Memory Analysis Toolkit' is developed on Python 2.x (Deprecated)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32310199,
+                "language": "Python",
+                "last_commit": "2016-07-25T00:39:38Z",
+                "owner": "n0fate",
+                "repo": "volafox",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dwarf2json",
+              "description": "Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88587728,
+                "language": "Go",
+                "last_commit": "2024-10-09T00:01:39Z",
+                "owner": "volatilityfoundation",
+                "repo": "dwarf2json",
+                "stars": 157
+              }
+            }
+          ],
+          "description": "Introduce commercial and open source tools for memory analysis.",
+          "node_type": "group",
+          "title": "Memory Analysis"
+        }
+      ],
       "title": "Tool"
-    },
-    {
-      "description": "Introduce commercial and open source tools for memory acquisition.",
-      "items": [],
-      "title": "Memory Acquisition"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LiME",
-          "description": "(Not actively maintained 😵🍋‍🟩) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-05T13:42:51Z",
-            "owner": "jtsylve",
-            "repo": "LiME",
-            "stars": 2028
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AVML",
-          "description": "AVML is an X86_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T22:25:13Z",
-            "owner": "microsoft",
-            "repo": "avml",
-            "stars": 1118
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Winpmem",
-          "description": "WinPmem has been the default open source memory acquisition driver for windows for a long time.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-10-14T14:13:22Z",
-            "owner": "Velocidex",
-            "repo": "WinPmem",
-            "stars": 1029
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "varc",
-          "description": "Volatile Artifact Collector gathers a snapshot of volatile data from a system.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-11-18T10:23:04Z",
-            "owner": "cado-security",
-            "repo": "varc",
-            "stars": 254
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fmem",
-          "description": "This module creates /dev/fmem device, that can be used for dumping physical memory, without limits of /dev/mem (1MB/1GB, depending on distribution).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-01-17T03:26:10Z",
-            "owner": "NateBrune",
-            "repo": "fmem",
-            "stars": 129
-          }
-        }
-      ],
-      "title": "Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EVTXtract",
-          "description": "EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-12T12:22:48Z",
-            "owner": "williballenthin",
-            "repo": "EVTXtract",
-            "stars": 211
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volatility3 Inodes Plugin",
-          "description": "The plugin is a pushed verion of the lsof plugin extracting inode metadata information from each files.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-23T20:39:30Z",
-            "owner": "forensicxlab",
-            "repo": "volatility3_plugins",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volatility3 Prefetch Plugin",
-          "description": "The plugin is scanning, extracting and parsing Windows Prefetch files from Windows XP to Windows 11.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-23T20:39:30Z",
-            "owner": "forensicxlab",
-            "repo": "volatility3_plugins",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "Introduce commercial and open source tools for memory analysis.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Volatility",
-          "description": "The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-05-16T13:40:55Z",
-            "owner": "volatilityfoundation",
-            "repo": "volatility",
-            "stars": 8059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volatility3",
-          "description": "Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T07:48:34Z",
-            "owner": "volatilityfoundation",
-            "repo": "volatility3",
-            "stars": 4333
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MemProcFS",
-          "description": "The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T21:01:29Z",
-            "owner": "ufrisk",
-            "repo": "MemProcFS",
-            "stars": 4288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rekall",
-          "description": "A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (Deprecated)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2020-10-18T04:33:58Z",
-            "owner": "google",
-            "repo": "rekall",
-            "stars": 2007
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Volafox",
-          "description": "macOS Memory Analysis Toolkit' is developed on Python 2.x (Deprecated)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-07-25T00:39:38Z",
-            "owner": "n0fate",
-            "repo": "volafox",
-            "stars": 175
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dwarf2json",
-          "description": "Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-10-09T00:01:39Z",
-            "owner": "volatilityfoundation",
-            "repo": "dwarf2json",
-            "stars": 157
-          }
-        }
-      ],
-      "title": "Memory Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Videos"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Articles"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "WriteUps"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "Thank you for your contribution!\nWe welcome any contribution to the extent that Code of Conduct and the License comply.",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:44:57.001Z",
+    "last_updated": "2026-08-19T10:45:15.222Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
     "enhanced_repository": "enhansome/enhansome-memory-forensics",
