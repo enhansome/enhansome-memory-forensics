@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4339
+                "stars": 4341
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-17T21:01:29Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4296
+                "stars": 4297
               }
             },
             {
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T10:45:56.586Z",
+    "last_updated": "2026-08-22T10:38:18.423Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_id": 477038428,
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
