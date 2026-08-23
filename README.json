@@ -19,7 +19,7 @@
                     "last_commit": "2026-04-05T13:42:51Z",
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2029
+                    "stars": 2028
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2025-10-14T14:13:22Z",
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1031
+                    "stars": 1032
                   }
                 },
                 {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4341
+                "stars": 4346
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-17T21:01:29Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4297
+                "stars": 4298
               }
             },
             {
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:38:18.423Z",
+    "last_updated": "2026-08-23T10:38:31.188Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_id": 477038428,
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
