@@ -49,7 +49,7 @@
                     "last_commit": "2025-10-14T14:13:22Z",
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1032
+                    "stars": 1034
                   }
                 },
                 {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4346
+                "stars": 4351
               }
             },
             {
@@ -246,7 +246,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:38:31.188Z",
+    "last_updated": "2026-08-24T10:52:26.138Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_id": 477038428,
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
