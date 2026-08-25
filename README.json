@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-17T21:01:29Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4299
+                "stars": 4300
               }
             },
             {
@@ -281,7 +281,7 @@
             "last_commit": "2021-03-08T15:54:40Z",
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1887
+            "stars": 1888
           }
         }
       ],
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:13:46.166Z",
+    "last_updated": "2026-08-25T10:48:40.189Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_id": 477038428,
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
