@@ -123,7 +123,7 @@
                     "last_commit": "2025-03-12T12:22:48Z",
                     "owner": "williballenthin",
                     "repo": "EVTXtract",
-                    "stars": 211
+                    "stars": 212
                   }
                 },
                 {
@@ -180,7 +180,7 @@
                 "last_commit": "2025-05-16T13:40:55Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8060
+                "stars": 8061
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4354
+                "stars": 4356
               }
             },
             {
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 158113416,
                 "language": "C",
-                "last_commit": "2026-08-17T21:01:29Z",
+                "last_commit": "2026-08-25T21:24:30Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
                 "stars": 4300
@@ -310,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:48:40.189Z",
+    "last_updated": "2026-08-26T10:50:58.599Z",
     "original_repository": "digitalisx/awesome-memory-forensics",
     "original_repository_id": 477038428,
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
