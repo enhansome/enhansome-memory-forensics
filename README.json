@@ -20,7 +20,8 @@
                     "owner": "jtsylve",
                     "repo": "LiME",
                     "stars": 2028
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "microsoft",
                     "repo": "avml",
                     "stars": 1118
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -49,8 +51,9 @@
                     "last_commit": "2025-10-14T14:13:22Z",
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1035
-                  }
+                    "stars": 1036
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -65,7 +68,8 @@
                     "owner": "cado-security",
                     "repo": "varc",
                     "stars": 254
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "NateBrune",
                     "repo": "fmem",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 }
               ],
               "description": null,
@@ -101,8 +106,9 @@
                     "last_commit": "2026-07-25T20:12:35Z",
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7900
-                  }
+                    "stars": 7898
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 }
               ],
               "description": null,
@@ -124,7 +130,8 @@
                     "owner": "williballenthin",
                     "repo": "EVTXtract",
                     "stars": 212
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -139,7 +146,8 @@
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 },
                 {
                   "node_type": "item",
@@ -154,7 +162,8 @@
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T21:11:08.839Z"
                 }
               ],
               "description": null,
@@ -180,8 +189,9 @@
                 "last_commit": "2025-05-16T13:40:55Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8061
-              }
+                "stars": 8062
+              },
+              "first_seen": "2026-08-28T21:11:08.839Z"
             },
             {
               "node_type": "item",
@@ -195,8 +205,9 @@
                 "last_commit": "2026-08-19T14:14:53Z",
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4357
-              }
+                "stars": 4358
+              },
+              "first_seen": "2026-08-28T21:11:08.839Z"
             },
             {
               "node_type": "item",
@@ -210,8 +221,9 @@
                 "last_commit": "2026-08-25T21:24:30Z",
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4303
-              }
+                "stars": 4305
+              },
+              "first_seen": "2026-08-28T21:11:08.839Z"
             },
             {
               "node_type": "item",
@@ -225,8 +237,9 @@
                 "last_commit": "2020-10-18T04:33:58Z",
                 "owner": "google",
                 "repo": "rekall",
-                "stars": 2007
-              }
+                "stars": 2008
+              },
+              "first_seen": "2026-08-28T21:11:08.839Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "n0fate",
                 "repo": "volafox",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T21:11:08.839Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "volatilityfoundation",
                 "repo": "dwarf2json",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T21:11:08.839Z"
             }
           ],
           "description": "Introduce commercial and open source tools for memory analysis.",
@@ -281,8 +296,9 @@
             "last_commit": "2021-03-08T15:54:40Z",
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1890
-          }
+            "stars": 1892
+          },
+          "first_seen": "2026-08-28T21:11:08.839Z"
         }
       ],
       "title": "Datasets"
@@ -303,14 +319,15 @@
             "owner": "dfrws",
             "repo": "dfrws2005-challenge",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:11:08.839Z"
         }
       ],
       "title": "Challenges"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:28:52.681Z",
+    "last_updated": "2026-08-28T21:11:08.839Z",
     "original_repository_info": {
       "archived": false,
       "id": 477038428,
