@@ -315,7 +315,7 @@
                 "open_issues": 9,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4306,
+                "stars": 4307,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:47.807Z",
+    "last_updated": "2026-08-29T15:03:15.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
