@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LiME (formerly DMD) is a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android. The tool supports acquiring memory either to the file system of the device or over the network. LiME is unique in that it is the first tool that allows full memory captures from Android devices. It also minimizes its interaction between user and kernel space processes during acquisition, which allows it to produce memory captures that are more forensically sound than those of other tools designed for Linux memory acquisition.",
+                    "homepage": null,
                     "id": 24379459,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-04-05T13:42:51Z",
+                    "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2028
+                    "stars": 2029,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 },
@@ -30,12 +35,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AVML - Acquire Volatile Memory for Linux",
+                    "homepage": null,
                     "id": 190660866,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-19T16:09:14Z",
+                    "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1118
+                    "stars": 1118,
+                    "topics": [
+                      "linux-security",
+                      "memory-forensics",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 },
@@ -46,12 +60,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The multi-platform memory acquisition tool.",
+                    "homepage": null,
                     "id": 187150358,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-14T14:13:22Z",
+                    "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1036
+                    "stars": 1037,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 },
@@ -62,12 +81,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Volatile Artifact Collector collects a snapshot of volatile data from a system. It tells you what is happening on a system, and is of particular use when investigating a security incident.",
+                    "homepage": null,
                     "id": 537488988,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-11-18T10:23:04Z",
+                    "open_issues": 4,
                     "owner": "cado-security",
                     "repo": "varc",
-                    "stars": 254
+                    "stars": 254,
+                    "topics": [
+                      "aws",
+                      "aws-fargate",
+                      "aws-forensics",
+                      "aws-lambda",
+                      "cloud-security",
+                      "dfir",
+                      "dfir-automation",
+                      "docker-forensics",
+                      "eks-forensics",
+                      "fargate-forensics",
+                      "forensics",
+                      "hacktoberfest",
+                      "memory-forensics",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 },
@@ -78,12 +117,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Linux Kernel Module designed to help analyze volatile memory in the linux kernel",
+                    "homepage": null,
                     "id": 37199387,
                     "language": "C",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-01-17T03:26:10Z",
+                    "open_issues": 2,
                     "owner": "NateBrune",
                     "repo": "fmem",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 }
@@ -101,12 +145,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Direct Memory Access (DMA) Attack Software",
+                    "homepage": null,
                     "id": 64324413,
                     "language": "C",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-07-25T20:12:35Z",
+                    "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7898
+                    "stars": 7899,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 }
@@ -124,12 +173,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.",
+                    "homepage": null,
                     "id": 13352424,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-03-12T12:22:48Z",
+                    "open_issues": 4,
                     "owner": "williballenthin",
                     "repo": "EVTXtract",
-                    "stars": 212
+                    "stars": 212,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 },
@@ -140,12 +194,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 517415069,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-23T20:39:30Z",
+                    "open_issues": 0,
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 },
@@ -156,12 +215,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 517415069,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-23T20:39:30Z",
+                    "open_issues": 0,
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
                 }
@@ -184,12 +248,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An advanced memory forensics framework",
+                "homepage": "http://volatilityfoundation.org/",
                 "id": 19114225,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-16T13:40:55Z",
+                "open_issues": 222,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8062
+                "stars": 8062,
+                "topics": [
+                  "malware",
+                  "memory",
+                  "python",
+                  "ram",
+                  "volatility-framework"
+                ]
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
             },
@@ -200,12 +275,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Volatility 3.0 development",
+                "homepage": "https://volatilityfoundation.org/",
                 "id": 16258388,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T14:14:53Z",
+                "open_issues": 135,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4358
+                "stars": 4358,
+                "topics": [
+                  "digital-investigation",
+                  "forensics",
+                  "incident-response",
+                  "malware",
+                  "memory",
+                  "python",
+                  "ram",
+                  "volatility",
+                  "volatility-framework"
+                ]
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
             },
@@ -216,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MemProcFS",
+                "homepage": null,
                 "id": 158113416,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T21:24:30Z",
+                "open_issues": 9,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4305
+                "stars": 4306,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
             },
@@ -232,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Rekall Memory Forensic Framework",
+                "homepage": "http://www.rekall-forensic.com",
                 "id": 19864741,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2020-10-18T04:33:58Z",
+                "open_issues": 201,
                 "owner": "google",
                 "repo": "rekall",
-                "stars": 2008
+                "stars": 2008,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
             },
@@ -248,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mac OS X Memory Analysis Toolkit",
+                "homepage": null,
                 "id": 32310199,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2016-07-25T00:39:38Z",
+                "open_issues": 1,
                 "owner": "n0fate",
                 "repo": "volafox",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
             },
@@ -264,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "convert ELF/DWARF symbol and type information into vol3's intermediate JSON",
+                "homepage": null,
                 "id": 88587728,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-09T00:01:39Z",
+                "open_issues": 14,
                 "owner": "volatilityfoundation",
                 "repo": "dwarf2json",
-                "stars": 157
+                "stars": 157,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
             }
@@ -291,12 +401,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Educational, CTF-styled labs for individuals interested in Memory Forensics",
+            "homepage": null,
             "id": 203713308,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-03-08T15:54:40Z",
+            "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1892
+            "stars": 1892,
+            "topics": [
+              "ctf",
+              "ctf-challenges",
+              "cybersecurity",
+              "dfir",
+              "digital-forensics",
+              "forensics",
+              "memory-forensics",
+              "security",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T21:11:08.839Z"
         }
@@ -313,12 +438,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MEMORY ANALYSIS was one of the primary themes of DFRWS 2005. In an effort to motivate discourse, research and tool development in this area, the Organizing Committee created the intrusion/intellectual property theft scenario detailed below. This memory challenge was open to all, and team efforts were encouraged.",
+            "homepage": null,
             "id": 394813132,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-27T03:40:07Z",
+            "open_issues": 0,
             "owner": "dfrws",
             "repo": "dfrws2005-challenge",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:08.839Z"
         }
@@ -327,15 +457,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:08.839Z",
+    "last_updated": "2026-08-29T04:40:47.807Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Memory Forensics for DFIR",
+      "homepage": null,
       "id": 477038428,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-17T21:50:15Z",
+      "open_issues": 2,
       "owner": "digitalisx",
       "repo": "awesome-memory-forensics",
-      "stars": 562
+      "stars": 562,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "digital-forensics",
+        "digital-forensics-incident-response",
+        "forensics",
+        "incident-response",
+        "malware",
+        "malware-analysis",
+        "malware-research",
+        "memory",
+        "memory-analysis"
+      ]
     },
     "original_repository_sha": "f2a9390c1a6e4ec2ca86003d5460bf8f3d1746fd",
     "enhanced_repository": "enhansome/enhansome-memory-forensics",
