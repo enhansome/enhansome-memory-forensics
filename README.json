@@ -44,7 +44,7 @@
                     "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1118,
+                    "stars": 1119,
                     "topics": [
                       "linux-security",
                       "memory-forensics",
@@ -154,7 +154,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7900,
+                    "stars": 7902,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -284,7 +284,7 @@
                 "open_issues": 135,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4360,
+                "stars": 4364,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:51:40.871Z",
+    "last_updated": "2026-08-31T17:36:43.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
