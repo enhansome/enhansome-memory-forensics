@@ -26,9 +26,9 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Software
 
-* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,028 | 🐛 35 | 🌐 C | 📅 2026-04-05(Not actively maintained 😵🍋‍🟩) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.
+* [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,029 | 🐛 35 | 🌐 C | 📅 2026-04-05(Not actively maintained 😵🍋‍🟩) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.
 * [AVML](https://github.com/microsoft/avml) ⭐ 1,119 | 🐛 5 | 🌐 Rust | 📅 2026-08-19 - AVML is an X86\_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary.
-* [Winpmem](https://github.com/Velocidex/WinPmem) ⭐ 1,039 | 🐛 27 | 🌐 C | 📅 2025-10-14 - WinPmem has been the default open source memory acquisition driver for windows for a long time.
+* [Winpmem](https://github.com/Velocidex/WinPmem) ⭐ 1,040 | 🐛 27 | 🌐 C | 📅 2025-10-14 - WinPmem has been the default open source memory acquisition driver for windows for a long time.
 * [varc](https://github.com/cado-security/varc) ⚠️ Archived - Volatile Artifact Collector gathers a snapshot of volatile data from a system.
 * [fmem](https://github.com/NateBrune/fmem) ⭐ 129 | 🐛 2 | 🌐 C | 📅 2026-01-17 - This module creates /dev/fmem device, that can be used for dumping physical memory, without limits of /dev/mem (1MB/1GB, depending on distribution).
 * [Surge](https://www.volexity.com/products-overview/surge/) - Volexity's Surge Collect offers flexible storage options and an intuitive interface that any responder can run to eliminate the issues associated with the corrupt data samples, crashed target computers, and ultimately, unusable data that commonly results from using other tools.
@@ -41,7 +41,7 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Hardware
 
-* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,903 | 🐛 9 | 🌐 C | 📅 2026-07-25 - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,908 | 🐛 9 | 🌐 C | 📅 2026-07-25 - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 #### Misc
 
@@ -56,11 +56,11 @@ Introduce commercial and open source tools for memory analysis.
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The Volatility Framework is a completely open collection of tools,
   implemented in Python under the GNU General Public License, for the
   extraction of digital artifacts from volatile memory (RAM) samples.
-* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,366 | 🐛 135 | 🌐 Python | 📅 2026-08-19 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,311 | 🐛 9 | 🌐 C | 📅 2026-08-25 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,372 | 🐛 135 | 🌐 Python | 📅 2026-08-19 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,314 | 🐛 9 | 🌐 C | 📅 2026-08-25 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 * [Volafox](https://github.com/n0fate/volafox) ⭐ 175 | 🐛 1 | 🌐 Python | 📅 2016-07-25 - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
-* [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) ⭐ 157 | 🐛 14 | 🌐 Go | 📅 2024-10-09 - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
+* [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) ⭐ 158 | 🐛 14 | 🌐 Go | 📅 2024-10-09 - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
 * [Volcano](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional's powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems' runtime state and trustworthiness.
 * [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) - The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode code, analyze crash dumps, and examine the CPU registers while the code executes.
 * [Redline](https://fireeye.market/apps/211364) - Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
@@ -226,4 +226,4 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
