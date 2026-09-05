@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1040,
+                    "stars": 1041,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -154,7 +154,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7908,
+                    "stars": 7910,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -257,7 +257,7 @@
                 "open_issues": 222,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8064,
+                "stars": 8063,
                 "topics": [
                   "malware",
                   "memory",
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-19T14:14:53Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4374,
+                "stars": 4375,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -311,7 +311,7 @@
                 "id": 158113416,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-25T21:24:30Z",
+                "last_commit": "2026-09-05T09:27:08Z",
                 "open_issues": 9,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:20:22.276Z",
+    "last_updated": "2026-09-05T13:27:20.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
