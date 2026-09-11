@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2031,
+                    "stars": 2032,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -44,7 +44,7 @@
                     "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1119,
+                    "stars": 1120,
                     "topics": [
                       "linux-security",
                       "memory-forensics",
@@ -254,10 +254,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2025-05-16T13:40:55Z",
-                "open_issues": 222,
+                "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8059,
+                "stars": 8060,
                 "topics": [
                   "malware",
                   "memory",
@@ -284,7 +284,7 @@
                 "open_issues": 138,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4382,
+                "stars": 4384,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -315,7 +315,7 @@
                 "open_issues": 4,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4324,
+                "stars": 4327,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -378,7 +378,7 @@
                 "open_issues": 14,
                 "owner": "volatilityfoundation",
                 "repo": "dwarf2json",
-                "stars": 158,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1894,
+            "stars": 1895,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:24:57.374Z",
+    "last_updated": "2026-09-11T14:24:43.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
