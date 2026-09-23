@@ -41,11 +41,11 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Hardware
 
-* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,928 | 🐛 10 | 🌐 C | 📅 2026-07-25 - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,929 | 🐛 10 | 🌐 C | 📅 2026-07-25 - PCILeech uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 #### Misc
 
-* [EVTXtract](https://github.com/williballenthin/EVTXtract) ⭐ 212 | 🐛 4 | 🌐 Python | 📅 2025-03-12 - EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.
+* [EVTXtract](https://github.com/williballenthin/EVTXtract) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-03-12 - EVTXtract recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.
 * [Volatility3 Inodes Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/inodes.py) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2024-07-23 - The plugin is a pushed verion of the lsof plugin extracting inode metadata information from each files.
 * [Volatility3 Prefetch Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/prefetch.py) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2024-07-23 - The plugin is scanning, extracting and parsing Windows Prefetch files from Windows XP to Windows 11.
 
@@ -56,11 +56,11 @@ Introduce commercial and open source tools for memory analysis.
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The Volatility Framework is a completely open collection of tools,
   implemented in Python under the GNU General Public License, for the
   extraction of digital artifacts from volatile memory (RAM) samples.
-* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,422 | 🐛 139 | 🌐 Python | 📅 2026-09-17 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,347 | 🐛 7 | 🌐 C | 📅 2026-09-14 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,427 | 🐛 139 | 🌐 Python | 📅 2026-09-17 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,348 | 🐛 7 | 🌐 C | 📅 2026-09-14 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 * [Volafox](https://github.com/n0fate/volafox) ⭐ 175 | 🐛 1 | 🌐 Python | 📅 2016-07-25 - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
-* [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) ⭐ 162 | 🐛 14 | 🌐 Go | 📅 2024-10-09 - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
+* [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) ⭐ 161 | 🐛 14 | 🌐 Go | 📅 2024-10-09 - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
 * [Volcano](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional's powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems' runtime state and trustworthiness.
 * [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) - The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode code, analyze crash dumps, and examine the CPU registers while the code executes.
 * [Redline](https://fireeye.market/apps/211364) - Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
@@ -194,7 +194,7 @@ Introduce commercial and open source tools for memory analysis.
 
 ## Datasets
 
-* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,906 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
+* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,905 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
 * Digital Corpora
 * [NIST](https://cfreds.nist.gov/mem/memory-images.rar)
 * [The Art of Memory Forensics](https://www.memoryanalysis.net/amf)
@@ -226,4 +226,4 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
