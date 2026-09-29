@@ -40,8 +40,8 @@
                     "id": 190660866,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-09-28T17:34:16Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-09-28T22:22:40Z",
+                    "open_issues": 6,
                     "owner": "microsoft",
                     "repo": "avml",
                     "stars": 1121,
@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1051,
+                    "stars": 1050,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -154,7 +154,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7936,
+                    "stars": 7939,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-17T19:52:50Z",
-                "open_issues": 137,
+                "open_issues": 136,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4441,
+                "stars": 4442,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -315,7 +315,7 @@
                 "open_issues": 8,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4354,
+                "stars": 4356,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -375,7 +375,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2024-10-09T00:01:39Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "volatilityfoundation",
                 "repo": "dwarf2json",
                 "stars": 161,
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:09:31.807Z",
+    "last_updated": "2026-09-29T16:30:25.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
