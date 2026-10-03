@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2040,
+                    "stars": 2041,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -44,7 +44,7 @@
                     "open_issues": 6,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1122,
+                    "stars": 1123,
                     "topics": [
                       "linux-security",
                       "memory-forensics",
@@ -154,7 +154,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7945,
+                    "stars": 7944,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -284,7 +284,7 @@
                 "open_issues": 137,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4445,
+                "stars": 4451,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -397,7 +397,7 @@
         {
           "node_type": "item",
           "title": "MemLabs",
-          "description": null,
+          "description": "stuxnet999/MemLabs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1914,
+            "stars": 1915,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -434,7 +434,7 @@
         {
           "node_type": "item",
           "title": "2005 DFRWS Forensic Challenge",
-          "description": null,
+          "description": "dfrws/dfrws2005-challenge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:15:52.087Z",
+    "last_updated": "2026-10-03T04:55:33.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
@@ -469,7 +469,7 @@
       "open_issues": 2,
       "owner": "digitalisx",
       "repo": "awesome-memory-forensics",
-      "stars": 566,
+      "stars": 567,
       "topics": [
         "awesome",
         "awesome-list",
