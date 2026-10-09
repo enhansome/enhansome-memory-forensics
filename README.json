@@ -44,7 +44,7 @@
                     "open_issues": 6,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1123,
+                    "stars": 1124,
                     "topics": [
                       "linux-security",
                       "memory-forensics",
@@ -154,7 +154,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7950,
+                    "stars": 7951,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-17T19:52:50Z",
-                "open_issues": 141,
+                "open_issues": 144,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4465,
+                "stars": 4471,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -315,7 +315,7 @@
                 "open_issues": 6,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4364,
+                "stars": 4365,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1918,
+            "stars": 1919,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:23:36.740Z",
+    "last_updated": "2026-10-09T16:59:00.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
