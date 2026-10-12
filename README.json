@@ -44,7 +44,7 @@
                     "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1124,
+                    "stars": 1122,
                     "topics": [
                       "linux-security",
                       "memory-forensics",
@@ -154,7 +154,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7950,
+                    "stars": 7949,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -280,11 +280,11 @@
                 "id": 16258388,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T19:52:50Z",
-                "open_issues": 145,
+                "last_commit": "2026-10-12T09:18:06Z",
+                "open_issues": 141,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4478,
+                "stars": 4479,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -315,7 +315,7 @@
                 "open_issues": 7,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4368,
+                "stars": 4367,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1917,
+            "stars": 1918,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:18:42.663Z",
+    "last_updated": "2026-10-12T19:47:42.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
@@ -469,7 +469,7 @@
       "open_issues": 2,
       "owner": "digitalisx",
       "repo": "awesome-memory-forensics",
-      "stars": 568,
+      "stars": 571,
       "topics": [
         "awesome",
         "awesome-list",
