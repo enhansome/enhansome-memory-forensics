@@ -154,7 +154,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7953,
+                    "stars": 7952,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -200,7 +200,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-07-23T20:39:30Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
                     "stars": 27,
@@ -221,7 +221,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-07-23T20:39:30Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
                     "stars": 27,
@@ -257,7 +257,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8054,
+                "stars": 8053,
                 "topics": [
                   "malware",
                   "memory",
@@ -284,7 +284,7 @@
                 "open_issues": 148,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4505,
+                "stars": 4509,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -315,7 +315,7 @@
                 "open_issues": 7,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4374,
+                "stars": 4375,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:42:34.022Z",
+    "last_updated": "2026-10-18T13:59:48.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
@@ -469,7 +469,7 @@
       "open_issues": 2,
       "owner": "digitalisx",
       "repo": "awesome-memory-forensics",
-      "stars": 571,
+      "stars": 572,
       "topics": [
         "awesome",
         "awesome-list",
