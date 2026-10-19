@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2050,
+                    "stars": 2051,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1061,
+                    "stars": 1062,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -154,7 +154,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7952,
+                    "stars": 7956,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -198,9 +198,9 @@
                     "homepage": null,
                     "id": 517415069,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-07-23T20:39:30Z",
-                    "open_issues": 1,
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-18T20:34:46Z",
+                    "open_issues": 0,
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
                     "stars": 27,
@@ -219,9 +219,9 @@
                     "homepage": null,
                     "id": 517415069,
                     "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-07-23T20:39:30Z",
-                    "open_issues": 1,
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-10-18T20:34:46Z",
+                    "open_issues": 0,
                     "owner": "forensicxlab",
                     "repo": "volatility3_plugins",
                     "stars": 27,
@@ -257,7 +257,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8053,
+                "stars": 8052,
                 "topics": [
                   "malware",
                   "memory",
@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T09:18:06Z",
-                "open_issues": 148,
+                "open_issues": 147,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4509,
+                "stars": 4514,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -315,7 +315,7 @@
                 "open_issues": 7,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4375,
+                "stars": 4381,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -410,7 +410,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -457,7 +457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:59:48.527Z",
+    "last_updated": "2026-10-19T16:58:28.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
