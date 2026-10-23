@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2051,
+                    "stars": 2053,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -69,10 +69,31 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1063,
+                    "stars": 1066,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MAGNET DumpIt for Linux",
+                  "description": "Linux memory acquisition tool written in Rust that creates compressed core dump style images readable by Volatility and MemProcFS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Memory acquisition for Linux that makes sense.",
+                    "homepage": null,
+                    "id": 548548806,
+                    "language": "Rust",
+                    "license": "Apache-2.0",
+                    "last_commit": "2023-11-21T13:20:21Z",
+                    "open_issues": 3,
+                    "owner": "MagnetForensics",
+                    "repo": "dumpit-linux",
+                    "stars": 256,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-21T15:12:51.235Z"
                 },
                 {
                   "node_type": "item",
@@ -109,27 +130,6 @@
                     ]
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "MAGNET DumpIt for Linux",
-                  "description": "Linux memory acquisition tool written in Rust that creates compressed core dump style images readable by Volatility and MemProcFS.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Memory acquisition for Linux that makes sense.",
-                    "homepage": null,
-                    "id": 548548806,
-                    "language": "Rust",
-                    "license": "Apache-2.0",
-                    "last_commit": "2023-11-21T13:20:21Z",
-                    "open_issues": 3,
-                    "owner": "MagnetForensics",
-                    "repo": "dumpit-linux",
-                    "stars": 254,
-                    "topics": []
-                  },
-                  "first_seen": "2026-10-21T15:12:51.235Z"
                 },
                 {
                   "node_type": "item",
@@ -447,7 +447,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8053,
+                "stars": 8054,
                 "topics": [
                   "malware",
                   "memory",
@@ -474,7 +474,7 @@
                 "open_issues": 151,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4523,
+                "stars": 4529,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 8,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4387,
+                "stars": 4388,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -547,7 +547,7 @@
                 "open_issues": 51,
                 "owner": "memflow",
                 "repo": "memflow",
-                "stars": 1108,
+                "stars": 1109,
                 "topics": [
                   "analysis",
                   "crate",
@@ -595,8 +595,8 @@
                 "id": 264956942,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-20T09:48:46Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-23T00:00:07Z",
+                "open_issues": 77,
                 "owner": "LDO-CERT",
                 "repo": "orochi",
                 "stars": 279,
@@ -624,7 +624,7 @@
                 "id": 943954284,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T15:34:28Z",
+                "last_commit": "2026-10-22T15:35:23Z",
                 "open_issues": 7,
                 "owner": "trailofbits",
                 "repo": "mquire",
@@ -677,7 +677,7 @@
                 "open_issues": 14,
                 "owner": "volatilityfoundation",
                 "repo": "dwarf2json",
-                "stars": 160,
+                "stars": 159,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -730,7 +730,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8053,
+            "stars": 8054,
             "topics": [
               "malware",
               "memory",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1925,
+            "stars": 1927,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:15:18.082Z",
+    "last_updated": "2026-10-23T15:02:33.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
@@ -789,7 +789,7 @@
       "open_issues": 0,
       "owner": "digitalisx",
       "repo": "awesome-memory-forensics",
-      "stars": 573,
+      "stars": 574,
       "topics": [
         "awesome",
         "awesome-list",
