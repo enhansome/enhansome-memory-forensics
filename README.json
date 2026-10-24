@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2053,
+                    "stars": 2054,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -40,11 +40,11 @@
                     "id": 190660866,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-20T22:22:42Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-23T17:10:44Z",
+                    "open_issues": 5,
                     "owner": "microsoft",
                     "repo": "avml",
-                    "stars": 1127,
+                    "stars": 1129,
                     "topics": [
                       "linux-security",
                       "memory-forensics",
@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1066,
+                    "stars": 1068,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -90,7 +90,7 @@
                     "open_issues": 3,
                     "owner": "MagnetForensics",
                     "repo": "dumpit-linux",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T15:12:51.235Z"
@@ -196,7 +196,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7958,
+                    "stars": 7962,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -447,7 +447,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8054,
+                "stars": 8053,
                 "topics": [
                   "malware",
                   "memory",
@@ -474,7 +474,7 @@
                 "open_issues": 151,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4529,
+                "stars": 4531,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 8,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4388,
+                "stars": 4391,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -595,8 +595,8 @@
                 "id": 264956942,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T00:00:07Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-23T23:50:54Z",
+                "open_issues": 78,
                 "owner": "LDO-CERT",
                 "repo": "orochi",
                 "stars": 279,
@@ -624,11 +624,11 @@
                 "id": 943954284,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T15:35:23Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-24T13:22:56Z",
+                "open_issues": 3,
                 "owner": "trailofbits",
                 "repo": "mquire",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "forensics",
                   "kernel",
@@ -730,7 +730,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8054,
+            "stars": 8053,
             "topics": [
               "malware",
               "memory",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:02:33.769Z",
+    "last_updated": "2026-10-24T14:00:21.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
