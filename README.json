@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1069,
+                    "stars": 1070,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -168,7 +168,7 @@
                     "open_issues": 1,
                     "owner": "eurecom-s3",
                     "repo": "lemon",
-                    "stars": 120,
+                    "stars": 122,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T15:12:51.235Z"
@@ -196,7 +196,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7963,
+                    "stars": 7964,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -224,7 +224,7 @@
                     "open_issues": 0,
                     "owner": "LETHAL-FORENSICS",
                     "repo": "MemProcFS-Analyzer",
-                    "stars": 742,
+                    "stars": 743,
                     "topics": [
                       "dfir",
                       "digital-forensics",
@@ -308,7 +308,7 @@
                     "open_issues": 0,
                     "owner": "vobst",
                     "repo": "btf2json",
-                    "stars": 37,
+                    "stars": 38,
                     "topics": [
                       "btf",
                       "memory-forensics",
@@ -471,10 +471,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-12T09:18:06Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4533,
+                "stars": 4538,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 8,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4390,
+                "stars": 4394,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -547,7 +547,7 @@
                 "open_issues": 51,
                 "owner": "memflow",
                 "repo": "memflow",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": [
                   "analysis",
                   "crate",
@@ -628,7 +628,7 @@
                 "open_issues": 3,
                 "owner": "trailofbits",
                 "repo": "mquire",
-                "stars": 189,
+                "stars": 191,
                 "topics": [
                   "forensics",
                   "kernel",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T14:21:20.318Z",
+    "last_updated": "2026-10-26T16:47:03.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
@@ -789,7 +789,7 @@
       "open_issues": 0,
       "owner": "digitalisx",
       "repo": "awesome-memory-forensics",
-      "stars": 574,
+      "stars": 576,
       "topics": [
         "awesome",
         "awesome-list",
