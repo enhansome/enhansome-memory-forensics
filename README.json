@@ -23,7 +23,7 @@
                     "open_issues": 35,
                     "owner": "jtsylve",
                     "repo": "LiME",
-                    "stars": 2055,
+                    "stars": 2054,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -40,8 +40,8 @@
                     "id": 190660866,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T22:22:54Z",
-                    "open_issues": 6,
+                    "last_commit": "2026-10-27T22:22:43Z",
+                    "open_issues": 7,
                     "owner": "microsoft",
                     "repo": "avml",
                     "stars": 1131,
@@ -196,7 +196,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7963,
+                    "stars": 7969,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -224,7 +224,7 @@
                     "open_issues": 0,
                     "owner": "LETHAL-FORENSICS",
                     "repo": "MemProcFS-Analyzer",
-                    "stars": 743,
+                    "stars": 742,
                     "topics": [
                       "dfir",
                       "digital-forensics",
@@ -253,7 +253,7 @@
                     "open_issues": 1,
                     "owner": "Abyss-W4tcher",
                     "repo": "volatility3-symbols",
-                    "stars": 322,
+                    "stars": 323,
                     "topics": [
                       "almalinux",
                       "alpine",
@@ -474,7 +474,7 @@
                 "open_issues": 153,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4540,
+                "stars": 4545,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 9,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4395,
+                "stars": 4397,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -547,7 +547,7 @@
                 "open_issues": 51,
                 "owner": "memflow",
                 "repo": "memflow",
-                "stars": 1111,
+                "stars": 1112,
                 "topics": [
                   "analysis",
                   "crate",
@@ -596,7 +596,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-23T23:50:54Z",
-                "open_issues": 78,
+                "open_issues": 79,
                 "owner": "LDO-CERT",
                 "repo": "orochi",
                 "stars": 279,
@@ -628,7 +628,7 @@
                 "open_issues": 3,
                 "owner": "trailofbits",
                 "repo": "mquire",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "forensics",
                   "kernel",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1927,
+            "stars": 1928,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:52:20.272Z",
+    "last_updated": "2026-10-28T16:36:30.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
