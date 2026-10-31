@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1070,
+                    "stars": 1072,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -196,7 +196,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7970,
+                    "stars": 7971,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -447,7 +447,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8054,
+                "stars": 8055,
                 "topics": [
                   "malware",
                   "memory",
@@ -474,7 +474,7 @@
                 "open_issues": 153,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4554,
+                "stars": 4555,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 10,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4401,
+                "stars": 4402,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -730,7 +730,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8054,
+            "stars": 8055,
             "topics": [
               "malware",
               "memory",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:41:16.255Z",
+    "last_updated": "2026-10-31T15:43:31.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
