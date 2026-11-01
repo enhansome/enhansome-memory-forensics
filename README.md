@@ -43,7 +43,7 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Hardware
 
-* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,971 | 🐛 9 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,973 | 🐛 9 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 #### Misc
 
@@ -63,8 +63,8 @@ Introduce commercial and open source tools for memory analysis.
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The Volatility Framework is a completely open collection of tools,
   implemented in Python under the GNU General Public License, for the
   extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecated*** in favor of Volatility3 since the 2025 parity release)
-* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,555 | 🐛 153 | 🌐 Python | 📅 2026-10-12 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,402 | 🐛 10 | 🌐 C | 📅 2026-10-05 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,559 | 🐛 153 | 🌐 Python | 📅 2026-10-12 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,403 | 🐛 10 | 🌐 C | 📅 2026-10-05 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 * [memflow](https://github.com/memflow/memflow) ⭐ 1,114 | 🐛 51 | 🌐 Rust | 📅 2026-04-24 - Rust framework for physical memory introspection that reads from memory dumps, live VMs and DMA hardware through pluggable connectors.
 * [VolWeb](https://github.com/k1nd0ne/VolWeb) ⭐ 540 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-29 - Collaborative web platform built on Volatility 3 for memory analysis, with case management, process tree visualization and evidence storage.
@@ -366,4 +366,4 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

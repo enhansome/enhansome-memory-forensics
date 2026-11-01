@@ -196,7 +196,7 @@
                     "open_issues": 9,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7971,
+                    "stars": 7973,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -474,7 +474,7 @@
                 "open_issues": 153,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4555,
+                "stars": 4559,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 10,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4402,
+                "stars": 4403,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:43:31.207Z",
+    "last_updated": "2026-11-01T16:47:50.392Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
