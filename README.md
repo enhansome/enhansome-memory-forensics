@@ -43,12 +43,12 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Hardware
 
-* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,977 | 🐛 9 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,978 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 #### Misc
 
 * [MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer) ⭐ 743 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-31 - PowerShell automation for MemProcFS that mounts a Windows memory dump and runs triage, IOC, YARA and timeline analysis.
-* [volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) ⭐ 323 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Continuously updated collection of ready-to-use Volatility 3 symbol tables (ISF) for Linux and macOS kernels across many distributions.
+* [volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) ⭐ 324 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Continuously updated collection of ready-to-use Volatility 3 symbol tables (ISF) for Linux and macOS kernels across many distributions.
 * [EVTXtract](https://github.com/williballenthin/EVTXtract) ⭐ 213 | 🐛 4 | 🌐 Python | 📅 2025-03-12 - Recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.
 * [btf2json](https://github.com/vobst/btf2json) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2024-12-21 - Generates Volatility 3 symbol tables from the kernel's BTF type information, without needing a debug kernel or dwarf2json. (1st place, 2024 Volatility Plugin Contest)
 * [Volatility3 Inodes Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/inodes.py) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-10-18 - The plugin is a pushed verion of the lsof plugin extracting inode metadata information from each files.
@@ -63,10 +63,10 @@ Introduce commercial and open source tools for memory analysis.
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The Volatility Framework is a completely open collection of tools,
   implemented in Python under the GNU General Public License, for the
   extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecated*** in favor of Volatility3 since the 2025 parity release)
-* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,566 | 🐛 156 | 🌐 Python | 📅 2026-10-12 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,405 | 🐛 8 | 🌐 C | 📅 2026-11-02 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,567 | 🐛 158 | 🌐 Python | 📅 2026-10-12 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,406 | 🐛 8 | 🌐 C | 📅 2026-11-02 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
-* [memflow](https://github.com/memflow/memflow) ⭐ 1,117 | 🐛 51 | 🌐 Rust | 📅 2026-04-24 - Rust framework for physical memory introspection that reads from memory dumps, live VMs and DMA hardware through pluggable connectors.
+* [memflow](https://github.com/memflow/memflow) ⭐ 1,116 | 🐛 51 | 🌐 Rust | 📅 2026-04-24 - Rust framework for physical memory introspection that reads from memory dumps, live VMs and DMA hardware through pluggable connectors.
 * [VolWeb](https://github.com/k1nd0ne/VolWeb) ⭐ 540 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Collaborative web platform built on Volatility 3 for memory analysis, with case management, process tree visualization and evidence storage.
 * [Orochi](https://github.com/LDO-CERT/orochi) ⭐ 279 | 🐛 57 | 🌐 Python | 📅 2026-11-02 - Django-based web GUI for Volatility 3 that lets multiple analysts work on the same memory dumps.
 * [mquire](https://github.com/trailofbits/mquire) ⭐ 192 | 🐛 6 | 🌐 Rust | 📅 2026-10-29 - Trail of Bits' Linux memory forensics tool that uses the kernel's embedded BTF and kallsyms, so no external debug symbols or profiles are required.
@@ -326,7 +326,7 @@ Introduce commercial and open source tools for memory analysis.
 ## Datasets
 
 * [Volatility Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples) ⚠️ Archived - Index of public Windows, Linux, macOS and Android memory images.
-* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,929 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
+* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,930 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
 * [Digital Corpora](https://downloads.digitalcorpora.org/corpora/scenarios/2009-m57-patents/ram/) - Daily RAM images from the M57-Patents scenario.
 * [NIST](https://cfreds.nist.gov/mem/memory-images.rar)
 * [The Art of Memory Forensics](https://www.memoryanalysis.net/amf)
@@ -366,4 +366,4 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
