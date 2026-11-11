@@ -28,11 +28,11 @@ Introduce commercial and open source tools for memory acquisition.
 
 * [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,059 | 🐛 36 | 🌐 C | 📅 2026-04-05(Not actively maintained 😵🍋‍🟩) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.
 * [AVML](https://github.com/microsoft/avml) ⭐ 1,134 | 🐛 5 | 🌐 Rust | 📅 2026-11-05 - X86\_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary.
-* [Winpmem](https://github.com/Velocidex/WinPmem) ⭐ 1,073 | 🐛 27 | 🌐 C | 📅 2026-10-21 - The long-standing default open source memory acquisition driver for Windows.
+* [Winpmem](https://github.com/Velocidex/WinPmem) ⭐ 1,074 | 🐛 27 | 🌐 C | 📅 2026-10-21 - The long-standing default open source memory acquisition driver for Windows.
 * [MAGNET DumpIt for Linux](https://github.com/MagnetForensics/dumpit-linux) ⭐ 258 | 🐛 3 | 🌐 Rust | 📅 2023-11-21 - Linux memory acquisition tool written in Rust that creates compressed core dump style images readable by Volatility and MemProcFS.
 * [varc](https://github.com/cado-security/varc) ⚠️ Archived - Volatile Artifact Collector gathers a snapshot of volatile data from a system.
 * [fmem](https://github.com/NateBrune/fmem) ⭐ 129 | 🐛 2 | 🌐 C | 📅 2026-01-17 - This module creates /dev/fmem device, that can be used for dumping physical memory, without limits of /dev/mem (1MB/1GB, depending on distribution).
-* [LEMON](https://github.com/eurecom-s3/lemon) ⭐ 124 | 🐛 1 | 🌐 C | 📅 2026-10-20 - eBPF-based memory acquisition tool for modern Android devices and hardened Linux systems, working without kernel modules, kernel sources or code signing where LiME/AVML are blocked.
+* [LEMON](https://github.com/eurecom-s3/lemon) ⭐ 125 | 🐛 1 | 🌐 C | 📅 2026-10-20 - eBPF-based memory acquisition tool for modern Android devices and hardened Linux systems, working without kernel modules, kernel sources or code signing where LiME/AVML are blocked.
 * [Surge](https://www.volexity.com/products-overview/surge/) - Volexity's Surge Collect offers flexible storage options and an intuitive interface that any responder can run to eliminate the issues associated with the corrupt data samples, crashed target computers, and ultimately, unusable data that commonly results from using other tools.
 * [MAGNET RAM](https://www.magnetforensics.com/resources/magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect's computer, allowing investigators to recover and analyze valuable artifacts that are often only found in memory.
 * [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager) - FTK® Imager is a data preview and imaging tool that lets you quickly assess electronic evidence to determine if further analysis with a forensic tool such as Forensic Toolkit (FTK®) is warranted.
@@ -43,12 +43,12 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Hardware
 
-* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,982 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 7,987 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 #### Misc
 
-* [MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer) ⭐ 756 | 🐛 0 | 🌐 PowerShell | 📅 2026-11-10 - PowerShell automation for MemProcFS that mounts a Windows memory dump and runs triage, IOC, YARA and timeline analysis.
-* [volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) ⭐ 325 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Continuously updated collection of ready-to-use Volatility 3 symbol tables (ISF) for Linux and macOS kernels across many distributions.
+* [MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer) ⭐ 759 | 🐛 0 | 🌐 PowerShell | 📅 2026-11-11 - PowerShell automation for MemProcFS that mounts a Windows memory dump and runs triage, IOC, YARA and timeline analysis.
+* [volatility3-symbols](https://github.com/Abyss-W4tcher/volatility3-symbols) ⭐ 326 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Continuously updated collection of ready-to-use Volatility 3 symbol tables (ISF) for Linux and macOS kernels across many distributions.
 * [EVTXtract](https://github.com/williballenthin/EVTXtract) ⭐ 212 | 🐛 4 | 🌐 Python | 📅 2025-03-12 - Recovers and reconstructs fragments of EVTX log files from raw binary data, including unallocated space and memory images.
 * [btf2json](https://github.com/vobst/btf2json) ⭐ 38 | 🐛 0 | 🌐 Rust | 📅 2024-12-21 - Generates Volatility 3 symbol tables from the kernel's BTF type information, without needing a debug kernel or dwarf2json. (1st place, 2024 Volatility Plugin Contest)
 * [Volatility3 Inodes Plugin](https://github.com/forensicxlab/volatility3_plugins/blob/main/inodes.py) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-10-18 - The plugin is a pushed verion of the lsof plugin extracting inode metadata information from each files.
@@ -63,8 +63,8 @@ Introduce commercial and open source tools for memory analysis.
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The Volatility Framework is a completely open collection of tools,
   implemented in Python under the GNU General Public License, for the
   extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecated*** in favor of Volatility3 since the 2025 parity release)
-* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,585 | 🐛 166 | 🌐 Python | 📅 2026-10-12 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,414 | 🐛 9 | 🌐 C | 📅 2026-11-07 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,591 | 🐛 166 | 🌐 Python | 📅 2026-10-12 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,419 | 🐛 9 | 🌐 C | 📅 2026-11-07 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 * [memflow](https://github.com/memflow/memflow) ⭐ 1,117 | 🐛 51 | 🌐 Rust | 📅 2026-04-24 - Rust framework for physical memory introspection that reads from memory dumps, live VMs and DMA hardware through pluggable connectors.
 * [VolWeb](https://github.com/k1nd0ne/VolWeb) ⭐ 541 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Collaborative web platform built on Volatility 3 for memory analysis, with case management, process tree visualization and evidence storage.
@@ -72,7 +72,7 @@ Introduce commercial and open source tools for memory analysis.
 * [mquire](https://github.com/trailofbits/mquire) ⭐ 193 | 🐛 6 | 🌐 Rust | 📅 2026-11-05 - Trail of Bits' Linux memory forensics tool that uses the kernel's embedded BTF and kallsyms, so no external debug symbols or profiles are required.
 * [Volafox](https://github.com/n0fate/volafox) ⭐ 175 | 🐛 1 | 🌐 Python | 📅 2016-07-25 - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
 * [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) ⭐ 163 | 🐛 14 | 🌐 Go | 📅 2024-10-09 - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
-* [Volatility MCP Server](https://github.com/bornpresident/Volatility-MCP-Server) ⭐ 42 | 🐛 4 | 🌐 Python | 📅 2025-07-07 - Model Context Protocol (MCP) server that exposes Volatility 3 plugins to LLM clients for AI-assisted memory analysis.
+* [Volatility MCP Server](https://github.com/bornpresident/Volatility-MCP-Server) ⭐ 42 | 🐛 5 | 🌐 Python | 📅 2025-07-07 - Model Context Protocol (MCP) server that exposes Volatility 3 plugins to LLM clients for AI-assisted memory analysis.
 * [Volcano](https://www.volexity.com/products-overview/volcano) - A comprehensive, cross-platform, next- generation memory analysis solution, Volexity Volcano Professional's powerful core extracts, indexes, and correlates artifacts to provide unprecedented visibility into systems' runtime state and trustworthiness.
 * [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) - The Windows Debugger (WinDbg) can be used to debug kernel-mode and user-mode code, analyze crash dumps, and examine the CPU registers while the code executes.
 * [Redline](https://fireeye.market/apps/211364) - Redline®, FireEye's premier free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
@@ -366,4 +366,4 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

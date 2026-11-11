@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1073,
+                    "stars": 1074,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -168,7 +168,7 @@
                     "open_issues": 1,
                     "owner": "eurecom-s3",
                     "repo": "lemon",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": []
                   },
                   "first_seen": "2026-10-21T15:12:51.235Z"
@@ -196,7 +196,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 7982,
+                    "stars": 7987,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -220,11 +220,11 @@
                     "id": 367543800,
                     "language": "PowerShell",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T05:53:11Z",
+                    "last_commit": "2026-11-11T11:34:41Z",
                     "open_issues": 0,
                     "owner": "LETHAL-FORENSICS",
                     "repo": "MemProcFS-Analyzer",
-                    "stars": 756,
+                    "stars": 759,
                     "topics": [
                       "dfir",
                       "digital-forensics",
@@ -253,7 +253,7 @@
                     "open_issues": 1,
                     "owner": "Abyss-W4tcher",
                     "repo": "volatility3-symbols",
-                    "stars": 325,
+                    "stars": 326,
                     "topics": [
                       "almalinux",
                       "alpine",
@@ -447,7 +447,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8056,
+                "stars": 8058,
                 "topics": [
                   "malware",
                   "memory",
@@ -474,7 +474,7 @@
                 "open_issues": 166,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4585,
+                "stars": 4591,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 9,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4414,
+                "stars": 4419,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -695,7 +695,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-07-07T12:20:52Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "bornpresident",
                 "repo": "Volatility-MCP-Server",
                 "stars": 42,
@@ -730,7 +730,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8056,
+            "stars": 8058,
             "topics": [
               "malware",
               "memory",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:47:25.120Z",
+    "last_updated": "2026-11-11T17:52:34.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
