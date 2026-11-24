@@ -40,7 +40,7 @@
                     "id": 190660866,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-20T22:22:44Z",
+                    "last_commit": "2026-11-23T22:23:05Z",
                     "open_issues": 7,
                     "owner": "microsoft",
                     "repo": "avml",
@@ -69,7 +69,7 @@
                     "open_issues": 27,
                     "owner": "Velocidex",
                     "repo": "WinPmem",
-                    "stars": 1080,
+                    "stars": 1081,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -196,7 +196,7 @@
                     "open_issues": 10,
                     "owner": "ufrisk",
                     "repo": "pcileech",
-                    "stars": 8006,
+                    "stars": 8009,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T21:11:08.839Z"
@@ -447,7 +447,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8059,
+                "stars": 8057,
                 "topics": [
                   "malware",
                   "memory",
@@ -474,7 +474,7 @@
                 "open_issues": 182,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4621,
+                "stars": 4625,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -501,11 +501,11 @@
                 "id": 158113416,
                 "language": "C",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-23T21:28:48Z",
+                "last_commit": "2026-11-23T22:59:32Z",
                 "open_issues": 14,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4431,
+                "stars": 4430,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -730,7 +730,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8059,
+            "stars": 8057,
             "topics": [
               "malware",
               "memory",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1940,
+            "stars": 1941,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:01:34.328Z",
+    "last_updated": "2026-11-24T20:38:24.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
