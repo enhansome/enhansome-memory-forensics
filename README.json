@@ -40,8 +40,8 @@
                     "id": 190660866,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-11-23T22:23:05Z",
-                    "open_issues": 7,
+                    "last_commit": "2026-11-24T22:22:41Z",
+                    "open_issues": 8,
                     "owner": "microsoft",
                     "repo": "avml",
                     "stars": 1137,
@@ -224,7 +224,7 @@
                     "open_issues": 0,
                     "owner": "LETHAL-FORENSICS",
                     "repo": "MemProcFS-Analyzer",
-                    "stars": 765,
+                    "stars": 766,
                     "topics": [
                       "dfir",
                       "digital-forensics",
@@ -447,7 +447,7 @@
                 "open_issues": 221,
                 "owner": "volatilityfoundation",
                 "repo": "volatility",
-                "stars": 8057,
+                "stars": 8058,
                 "topics": [
                   "malware",
                   "memory",
@@ -471,10 +471,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-22T11:42:33Z",
-                "open_issues": 182,
+                "open_issues": 180,
                 "owner": "volatilityfoundation",
                 "repo": "volatility3",
-                "stars": 4625,
+                "stars": 4631,
                 "topics": [
                   "digital-investigation",
                   "forensics",
@@ -505,7 +505,7 @@
                 "open_issues": 14,
                 "owner": "ufrisk",
                 "repo": "MemProcFS",
-                "stars": 4430,
+                "stars": 4431,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:08.839Z"
@@ -595,8 +595,8 @@
                 "id": 264956942,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-23T14:13:33Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-25T13:24:33Z",
+                "open_issues": 42,
                 "owner": "LDO-CERT",
                 "repo": "orochi",
                 "stars": 280,
@@ -730,7 +730,7 @@
             "open_issues": 221,
             "owner": "volatilityfoundation",
             "repo": "volatility",
-            "stars": 8057,
+            "stars": 8058,
             "topics": [
               "malware",
               "memory",
@@ -757,7 +757,7 @@
             "open_issues": 0,
             "owner": "stuxnet999",
             "repo": "MemLabs",
-            "stars": 1941,
+            "stars": 1942,
             "topics": [
               "ctf",
               "ctf-challenges",
@@ -777,7 +777,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:38:24.685Z",
+    "last_updated": "2026-11-25T19:55:36.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Memory Forensics for DFIR",
