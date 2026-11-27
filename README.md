@@ -27,7 +27,7 @@ Introduce commercial and open source tools for memory acquisition.
 #### Software
 
 * [LiME](https://github.com/504ensicsLabs/LiME) ⭐ 2,064 | 🐛 36 | 🌐 C | 📅 2026-04-05(Not actively maintained 😵🍋‍🟩) - A Loadable Kernel Module (LKM) which allows for volatile memory acquisition from Linux and Linux-based devices, such as Android.
-* [AVML](https://github.com/microsoft/avml) ⭐ 1,137 | 🐛 8 | 🌐 Rust | 📅 2026-11-24 - X86\_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary.
+* [AVML](https://github.com/microsoft/avml) ⭐ 1,138 | 🐛 8 | 🌐 Rust | 📅 2026-11-24 - X86\_64 userland volatile memory acquisition tool written in Rust, intended to be deployed as a static binary.
 * [Winpmem](https://github.com/Velocidex/WinPmem) ⭐ 1,083 | 🐛 27 | 🌐 C | 📅 2026-10-21 - The long-standing default open source memory acquisition driver for Windows.
 * [MAGNET DumpIt for Linux](https://github.com/MagnetForensics/dumpit-linux) ⭐ 259 | 🐛 3 | 🌐 Rust | 📅 2026-11-18 - Linux memory acquisition tool written in Rust that creates compressed core dump style images readable by Volatility and MemProcFS.
 * [varc](https://github.com/cado-security/varc) ⚠️ Archived - Volatile Artifact Collector gathers a snapshot of volatile data from a system.
@@ -43,7 +43,7 @@ Introduce commercial and open source tools for memory acquisition.
 
 #### Hardware
 
-* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 8,014 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
+* [PCILeech](https://github.com/ufrisk/pcileech) ⭐ 8,015 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Uses PCIe hardware devices to read and write target system memory. This is achieved by using DMA over PCIe. No drivers are needed on the target system.
 
 #### Misc
 
@@ -63,12 +63,12 @@ Introduce commercial and open source tools for memory analysis.
 * [Volatility](https://github.com/volatilityfoundation/volatility) ⚠️ Archived - The Volatility Framework is a completely open collection of tools,
   implemented in Python under the GNU General Public License, for the
   extraction of digital artifacts from volatile memory (RAM) samples. (***Deprecated*** in favor of Volatility3 since the 2025 parity release)
-* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,635 | 🐛 182 | 🌐 Python | 📅 2026-11-22 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
-* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,433 | 🐛 14 | 🌐 C | 📅 2026-11-23 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
+* [Volatility3](https://github.com/volatilityfoundation/volatility3) ⭐ 4,636 | 🐛 183 | 🌐 Python | 📅 2026-11-22 - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+* [MemProcFS](https://github.com/ufrisk/MemProcFS) ⭐ 4,434 | 🐛 14 | 🌐 C | 📅 2026-11-23 - The Memory Process File System (MemProcFS) is an easy and convenient way of viewing physical memory as files in a virtual file system.
 * [Rekall](https://github.com/google/rekall) ⚠️ Archived - A new branch within the Volatility project was created to explore how to make the code base more modular, improve performance, and increase usability. (***Deprecated***)
 * [memflow](https://github.com/memflow/memflow) ⭐ 1,119 | 🐛 51 | 🌐 Rust | 📅 2026-04-24 - Rust framework for physical memory introspection that reads from memory dumps, live VMs and DMA hardware through pluggable connectors.
-* [VolWeb](https://github.com/k1nd0ne/VolWeb) ⭐ 543 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Collaborative web platform built on Volatility 3 for memory analysis, with case management, process tree visualization and evidence storage.
-* [Orochi](https://github.com/LDO-CERT/orochi) ⭐ 280 | 🐛 42 | 🌐 Python | 📅 2026-11-26 - Django-based web GUI for Volatility 3 that lets multiple analysts work on the same memory dumps.
+* [VolWeb](https://github.com/k1nd0ne/VolWeb) ⭐ 544 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Collaborative web platform built on Volatility 3 for memory analysis, with case management, process tree visualization and evidence storage.
+* [Orochi](https://github.com/LDO-CERT/orochi) ⭐ 280 | 🐛 42 | 🌐 Python | 📅 2026-11-27 - Django-based web GUI for Volatility 3 that lets multiple analysts work on the same memory dumps.
 * [mquire](https://github.com/trailofbits/mquire) ⭐ 194 | 🐛 6 | 🌐 Rust | 📅 2026-11-26 - Trail of Bits' Linux memory forensics tool that uses the kernel's embedded BTF and kallsyms, so no external debug symbols or profiles are required.
 * [Volafox](https://github.com/n0fate/volafox) ⭐ 175 | 🐛 1 | 🌐 Python | 📅 2016-07-25 - macOS Memory Analysis Toolkit' is developed on Python 2.x (***Deprecated***)
 * [dwarf2json](https://github.com/volatilityfoundation/dwarf2json) ⭐ 164 | 🐛 14 | 🌐 Go | 📅 2024-10-09 - Go utility that processes files containing symbol and type information to generate Volatilty3 Intermediate Symbol File (ISF) JSON output suitable for Linux and macOS analysis.
@@ -326,7 +326,7 @@ Introduce commercial and open source tools for memory analysis.
 ## Datasets
 
 * [Volatility Memory Samples](https://github.com/volatilityfoundation/volatility/wiki/Memory-Samples) ⚠️ Archived - Index of public Windows, Linux, macOS and Android memory images.
-* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,942 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
+* [MemLabs](https://github.com/stuxnet999/MemLabs) ⭐ 1,943 | 🐛 0 | 🌐 Shell | 📅 2021-03-08
 * [Digital Corpora](https://downloads.digitalcorpora.org/corpora/scenarios/2009-m57-patents/ram/) - Daily RAM images from the M57-Patents scenario.
 * [NIST](https://cfreds.nist.gov/mem/memory-images.rar)
 * [The Art of Memory Forensics](https://www.memoryanalysis.net/amf)
@@ -366,4 +366,4 @@ We welcome any contribution to the extent that Code of Conduct and the License c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
